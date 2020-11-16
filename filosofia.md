@@ -19,6 +19,8 @@ Analítica
 
 Idealismo
 
+* Hegel - Lógica
+
 Antigua
 
 
