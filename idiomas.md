@@ -8,6 +8,9 @@
 
 ### Francés
 
+* Flaubert - L'Éducation sentimentale
+* Sophocle - Théâtre complet
+
 ### Latín
 
 * [https://geoffreysteadman.com/](https://geoffreysteadman.com/)
