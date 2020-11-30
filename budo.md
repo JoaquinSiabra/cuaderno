@@ -2,13 +2,11 @@
 
 ## Karate
 
-
-
-**Shuri**
+### Shuri
 
 * [**Bassai Dai**](https://www.katashitoryu.com/kata/bassai-dai)[ ](https://www.katashitoryu.com/kata/bassai-dai)
 * [**Bassai Sho**](https://www.katashitoryu.com/kata/bassai-sho)
-* [**Chatanyara Kusanku**](https://www.katashitoryu.com/kata/chatan-yara-kusanku) 
+* [**Chatanyara Kusanku**](https://www.katashitoryu.com/kata/chatan-yara-kusanku)
 * [**Chi No Kata**](https://www.katashitoryu.com/kata/chi-no-kata)
 * [**Chintei**](https://www.katashitoryu.com/kata/chintei)
 * [**Chinto**](https://www.katashitoryu.com/kata/chinto)
@@ -34,7 +32,7 @@
 * Wandau
 * Wanshu
 
-**Tomari**
+### Tomari
 
 * [**Ananko**](https://www.katashitoryu.com/kata/ananko)
 * Chibana No Kusanku
@@ -49,7 +47,7 @@
 * Tomari Rohai
 * Tomari Wanshu
 
-## Mabuni
+### Mabuni
 
 * [**Aoyagi \(Seiryu\)**](https://www.katashitoryu.com/kata/aoyagi-seiryu)
 * [**Happo Sho**](https://www.katashitoryu.com/kata/happo-sho)
@@ -59,7 +57,7 @@
 * Sinshei
 * [**Yiuroku**](https://www.katashitoryu.com/kata/yiuroku)
 
-## Nakaima
+### Nakaima
 
 * [**Annan**](https://www.katashitoryu.com/kata/annan)
 * [**Annan Dai**](https://www.katashitoryu.com/kata/annan-dai)
@@ -70,10 +68,10 @@
 * [**Ohan**](https://www.katashitoryu.com/kata/ohan)
 * [**Ohan Dai**](https://www.katashitoryu.com/kata/ohan-dai)
 
-**Naha**
+### Naha
 
 * [**Ansan**](https://www.katashitoryu.com/kata/ansan)
-* Gekisai Dai Ichi 
+* Gekisai Dai Ichi
 * Gekisai Dai Ni
 * [**Kakuha**](https://www.katashitoryu.com/kata/kakuha)
 * **Kururunfa**
@@ -88,13 +86,13 @@
 * [**Suparinpei**](https://www.katashitoryu.com/kata/suparinpei)
 * [**Tensho**](https://www.katashitoryu.com/kata/tensho)
 
-## Aragaki
+### Aragaki
 
 * [**Niseishi**](https://www.katashitoryu.com/kata/niseishi)
 * [**Soochin**](https://www.katashitoryu.com/kata/soochin)
 * [**Unshu**](https://www.katashitoryu.com/kata/unshu)
 
-## Gokenki
+### Gokenki
 
 * [**Haffa**](https://www.katashitoryu.com/kata/haffa)
 * [**Hakkaku**](https://www.katashitoryu.com/kata/hakkaku)
