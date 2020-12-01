@@ -77,11 +77,11 @@
 * **Kururunfa**
 * [**Sanchin**](https://www.katashitoryu.com/kata/sanchin)
 * [**Saifa**](https://www.katashitoryu.com/kata/saifa)
-* [**Sanseiru**](https://www.katashitoryu.com/kata/sanseiru)
 * [**Sanzan**](https://www.katashitoryu.com/kata/sanzan)
 * [**Seienchin**](https://www.katashitoryu.com/kata/seienchin)
 * [**Seipai**](https://www.katashitoryu.com/kata/seipai)
 * [**Seisan**](https://www.katashitoryu.com/kata/seisan)
+* [**Sanseiru**](https://www.katashitoryu.com/kata/sanseiru)
 * [**Sishoochin**](https://www.katashitoryu.com/kata/sishoochin)
 * [**Suparinpei**](https://www.katashitoryu.com/kata/suparinpei)
 * [**Tensho**](https://www.katashitoryu.com/kata/tensho)

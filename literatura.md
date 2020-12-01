@@ -1,6 +1,7 @@
 # Literatura
 
-* Marías - Tu rostro mañana
+* J. Marías - Tu rostro mañana
+* T. Ballester  - Off Side
 
 
 

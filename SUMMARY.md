@@ -2,8 +2,9 @@
 
 * [Cuaderno](README.md)
 * [Idiomas](idiomas.md)
-* [Filosofía](filosofia.md)
-* [Literatura](literatura.md)
+* [Filosofía](filosofia/README.md)
+  * [Escolástica](filosofia/escolastica.md)
 * [Curso Logica Hegel](curso-logica-hegel.md)
 * [Budo](budo.md)
+* [Literatura](literatura.md)
 
