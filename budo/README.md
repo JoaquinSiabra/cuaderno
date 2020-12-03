@@ -4,30 +4,28 @@
 
 * Historia de las Artes Marciales
 * Karate I
-* Judo I
-* Aikido I
-* Fisiología
 * Atemi
 * Esquiva I: Cabeza
 
 ### Segundo Curso
 
 * Karate II
-* Judo II
-* Aikido II
+* Aikido I
 * Esquiva II: Pies
+* Puntos vitales \(Kyusho\) 
 
 ### Tercer Curso
 
 * Karate III
-* Judo III
-* Aikido III
+* Judo I
+* Aikido II
+* Estrategia
 
 ### Cuarto Curso
 
 * Karate IV
-* Judo IV
-* Aikido IV
+* Judo II
+* Aikido III
 
 
 
