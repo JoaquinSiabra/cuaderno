@@ -3,29 +3,33 @@
 ### Primer Curso
 
 * Historia de las Artes Marciales
-* Karate I
-* Atemi
-* Esquiva I: Cabeza
+* Principios tácticos \(desorientación, protección, golpe, luxación, inmovilización, proyección, huida\)
+* Karate I \(G\)
+* Atemi \(D\)
+* Esquiva I: Cabeza \(D, PR\)
 
 ### Segundo Curso
 
-* Karate II
-* Aikido I
-* Esquiva II: Pies
-* Puntos vitales \(Kyusho\) 
+* Karate II \(G\)
+* Aikido I \(L\)
+* Esquiva II: Pies \(D, PR\)
+* Puntos vitales \(Kyusho\)  \(I\)
+* Oponentes múltiples
 
 ### Tercer Curso
 
-* Karate III
-* Judo I
-* Aikido II
-* Estrategia
+* Karate III \(G\)
+* Judo I \(PY\)
+* Aikido II \(L\)
+* Principios de estrategia
+* Lucha en el suelo \(PR, I\)
 
 ### Cuarto Curso
 
-* Karate IV
-* Judo II
-* Aikido III
+* Retórica y medios de persuasión
+* Karate IV \(G\)
+* Judo II \(PY\)
+* Aikido III \(L\)
 
 
 
